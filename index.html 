@@ -3,15 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FerFlix</title>
+    <title>Giovanaflix</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-   <header>FILMES PREFERIDOS DA GIOVANA</header>
-   <H1> PARA SE EMOCIONAR</H1>
+   <header>MUICAS PREFERIDAS DA GIOVANA</header>
+   <H1>PARA OUVIR NO TEMPO LIVRE</H1>
    <p>Bem-vindo(a) ao Giovanaflix! Aqui você vai encontrar uma lista dos filmes que mais me emocionaram — histórias marcantes, cheias de sentimentos, que tocam o coração e, sim, muitas vezes fazem a gente chorar. Se você ama filmes que mexem com a alma, essa página é pra você!</p>
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Go3OQn1YomI?si=4lNjSPomAerPyT_a&quot; title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHlZEcy24q8?si=kWkFmdpwaE6kh-wS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    
 </body>
 </html>
